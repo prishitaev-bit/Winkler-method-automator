@@ -20,4 +20,3 @@ During chemistry lab practicals, processing titration formulas manually across m
 
 
 
-After you save that, you will be back on your main project page, and we can move on to Step 3: clicking **Add file** to create your actual `winkler_calculator.c` file!
